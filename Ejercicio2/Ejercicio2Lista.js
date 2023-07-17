@@ -6,7 +6,7 @@ const nacimiento = new Date("may 3 1984");
 const libroFav = {
     titulo: "Como ganar amigos",
     autor: "Dale Carnegie",
-    fecha: "1 oct 2008",
+    fecha: "octubre 1936",
     url: "https://www.amazon.com/-/es/Dale-Carnegie/dp/8493664928"
 }
 
